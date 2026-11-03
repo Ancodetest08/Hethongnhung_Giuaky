@@ -84,8 +84,8 @@ Thời gian debounce: 50ms cho cả hai nút bấm
 ### Các bước thực hiện
 1. **Clone repository**
 ```bash
-git clone https://github.com/ancodetest08/Hethongnhung_GiuaKy.git
-cd Hethongnhung_GiuaKy
+git clone https://github.com/ancodetest08/Hethongnhung_Giuaky.git
+cd Hethongnhung_Giuaky
 ```
 2. **Build project**
 ```bash
